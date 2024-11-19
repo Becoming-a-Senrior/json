@@ -1,0 +1,7 @@
+{
+    "name" : "Monkey D. Luffy",
+    "anzahl_der_follower": 200,
+    "bio" : null,
+    "ist_privat": false,
+    "hobbies": ["essen gehen", "kämpfen"]
+}
